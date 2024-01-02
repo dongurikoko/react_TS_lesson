@@ -14,4 +14,6 @@ package.json : アプリのテクニカルな情報やインストールされ�
 packagelock.json : インストールされたパッケージ情報  
 tsconfig.json : TypeScriptで開発を行う時の必須ファイルで、型のチェックをどれだけ厳しくするかなどを設定  
 
+`npm install react-router-dom`でページを生成するためのパッケージインストール
+
 参考図書：初めて作るreactアプリwith typescript
