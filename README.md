@@ -13,3 +13,5 @@ public : 開発完了後、オンライン上に公開する準備ができた�
 package.json : アプリのテクニカルな情報やインストールされているパッケージの情報  
 packagelock.json : インストールされたパッケージ情報  
 tsconfig.json : TypeScriptで開発を行う時の必須ファイルで、型のチェックをどれだけ厳しくするかなどを設定  
+
+参考図書：初めて作るreactアプリwith typescript
